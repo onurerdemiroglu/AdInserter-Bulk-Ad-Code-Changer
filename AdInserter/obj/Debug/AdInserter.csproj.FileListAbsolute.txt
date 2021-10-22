@@ -1,0 +1,50 @@
+C:\Users\ONUR\Desktop\Pinterest\Reklam Kodu Değiştirici\AdInserter\AdInserter\bin\Debug\AdInserter.exe.config
+C:\Users\ONUR\Desktop\Pinterest\Reklam Kodu Değiştirici\AdInserter\AdInserter\bin\Debug\AdInserter.exe
+C:\Users\ONUR\Desktop\Pinterest\Reklam Kodu Değiştirici\AdInserter\AdInserter\bin\Debug\AdInserter.pdb
+C:\Users\ONUR\Desktop\Pinterest\Reklam Kodu Değiştirici\AdInserter\AdInserter\obj\Debug\AdInserter.csprojResolveAssemblyReference.cache
+C:\Users\ONUR\Desktop\Pinterest\Reklam Kodu Değiştirici\AdInserter\AdInserter\obj\Debug\AdInserter.Form1.resources
+C:\Users\ONUR\Desktop\Pinterest\Reklam Kodu Değiştirici\AdInserter\AdInserter\obj\Debug\AdInserter.Properties.Resources.resources
+C:\Users\ONUR\Desktop\Pinterest\Reklam Kodu Değiştirici\AdInserter\AdInserter\obj\Debug\AdInserter.csproj.GenerateResource.Cache
+C:\Users\ONUR\Desktop\Pinterest\Reklam Kodu Değiştirici\AdInserter\AdInserter\obj\Debug\AdInserter.exe
+C:\Users\ONUR\Desktop\Pinterest\Reklam Kodu Değiştirici\AdInserter\AdInserter\obj\Debug\AdInserter.pdb
+C:\Users\ONUR\Desktop\Pinterest\Reklam Kodu Değiştirici\AdInserter\AdInserter\bin\Debug\WebDriver.dll
+C:\Users\ONUR\Desktop\Pinterest\Reklam Kodu Değiştirici\AdInserter\AdInserter\bin\Debug\WebDriver.xml
+C:\Users\ONUR\Desktop\Kendi yazılım\Pinterest\Reklam Kodu Değiştirici\AdInserter\AdInserter\bin\Debug\AdInserter.exe.config
+C:\Users\ONUR\Desktop\Kendi yazılım\Pinterest\Reklam Kodu Değiştirici\AdInserter\AdInserter\bin\Debug\AdInserter.exe
+C:\Users\ONUR\Desktop\Kendi yazılım\Pinterest\Reklam Kodu Değiştirici\AdInserter\AdInserter\bin\Debug\AdInserter.pdb
+C:\Users\ONUR\Desktop\Kendi yazılım\Pinterest\Reklam Kodu Değiştirici\AdInserter\AdInserter\bin\Debug\WebDriver.dll
+C:\Users\ONUR\Desktop\Kendi yazılım\Pinterest\Reklam Kodu Değiştirici\AdInserter\AdInserter\bin\Debug\WebDriver.xml
+C:\Users\ONUR\Desktop\Kendi yazılım\Pinterest\Reklam Kodu Değiştirici\AdInserter\AdInserter\obj\Debug\AdInserter.csprojResolveAssemblyReference.cache
+C:\Users\ONUR\Desktop\Kendi yazılım\Pinterest\Reklam Kodu Değiştirici\AdInserter\AdInserter\obj\Debug\AdInserter.Form1.resources
+C:\Users\ONUR\Desktop\Kendi yazılım\Pinterest\Reklam Kodu Değiştirici\AdInserter\AdInserter\obj\Debug\AdInserter.Properties.Resources.resources
+C:\Users\ONUR\Desktop\Kendi yazılım\Pinterest\Reklam Kodu Değiştirici\AdInserter\AdInserter\obj\Debug\AdInserter.csproj.GenerateResource.Cache
+C:\Users\ONUR\Desktop\Kendi yazılım\Pinterest\Reklam Kodu Değiştirici\AdInserter\AdInserter\obj\Debug\AdInserter.exe
+C:\Users\ONUR\Desktop\Kendi yazılım\Pinterest\Reklam Kodu Değiştirici\AdInserter\AdInserter\obj\Debug\AdInserter.pdb
+C:\Users\ONUR\Desktop\Kendi yazılım\Yazılımlarım\Reklam Kodu Değiştirici\AdInserter\AdInserter\bin\Debug\AdInserter.exe.config
+C:\Users\ONUR\Desktop\Kendi yazılım\Yazılımlarım\Reklam Kodu Değiştirici\AdInserter\AdInserter\bin\Debug\AdInserter.exe
+C:\Users\ONUR\Desktop\Kendi yazılım\Yazılımlarım\Reklam Kodu Değiştirici\AdInserter\AdInserter\bin\Debug\AdInserter.pdb
+C:\Users\ONUR\Desktop\Kendi yazılım\Yazılımlarım\Reklam Kodu Değiştirici\AdInserter\AdInserter\bin\Debug\WebDriver.dll
+C:\Users\ONUR\Desktop\Kendi yazılım\Yazılımlarım\Reklam Kodu Değiştirici\AdInserter\AdInserter\bin\Debug\WebDriver.xml
+C:\Users\ONUR\Desktop\Kendi yazılım\Yazılımlarım\Reklam Kodu Değiştirici\AdInserter\AdInserter\obj\Debug\AdInserter.csprojResolveAssemblyReference.cache
+C:\Users\ONUR\Desktop\Kendi yazılım\Yazılımlarım\Reklam Kodu Değiştirici\AdInserter\AdInserter\obj\Debug\AdInserter.Form1.resources
+C:\Users\ONUR\Desktop\Kendi yazılım\Yazılımlarım\Reklam Kodu Değiştirici\AdInserter\AdInserter\obj\Debug\AdInserter.Properties.Resources.resources
+C:\Users\ONUR\Desktop\Kendi yazılım\Yazılımlarım\Reklam Kodu Değiştirici\AdInserter\AdInserter\obj\Debug\AdInserter.csproj.GenerateResource.Cache
+C:\Users\ONUR\Desktop\Kendi yazılım\Yazılımlarım\Reklam Kodu Değiştirici\AdInserter\AdInserter\obj\Debug\AdInserter.exe
+C:\Users\ONUR\Desktop\Kendi yazılım\Yazılımlarım\Reklam Kodu Değiştirici\AdInserter\AdInserter\obj\Debug\AdInserter.pdb
+C:\Users\ONUR\Desktop\Kendi yazılım\Yazılımlarım\Reklam Kodu Değiştirici\AdInserter\AdInserter\bin\Debug\WebDriver.Support.dll
+C:\Users\ONUR\Desktop\Kendi yazılım\Yazılımlarım\Reklam Kodu Değiştirici\AdInserter\AdInserter\bin\Debug\WebDriver.Support.xml
+C:\Users\monst\OneDrive\Masaüstü\Github\Pinterest Üzerine\Yazılımlarım\Reklam Kodu Değiştirici\AdInserter\AdInserter\bin\Debug\AdInserter.exe.config
+C:\Users\monst\OneDrive\Masaüstü\Github\Pinterest Üzerine\Yazılımlarım\Reklam Kodu Değiştirici\AdInserter\AdInserter\bin\Debug\AdInserter.exe
+C:\Users\monst\OneDrive\Masaüstü\Github\Pinterest Üzerine\Yazılımlarım\Reklam Kodu Değiştirici\AdInserter\AdInserter\bin\Debug\AdInserter.pdb
+C:\Users\monst\OneDrive\Masaüstü\Github\Pinterest Üzerine\Yazılımlarım\Reklam Kodu Değiştirici\AdInserter\AdInserter\bin\Debug\WebDriver.dll
+C:\Users\monst\OneDrive\Masaüstü\Github\Pinterest Üzerine\Yazılımlarım\Reklam Kodu Değiştirici\AdInserter\AdInserter\bin\Debug\WebDriver.Support.dll
+C:\Users\monst\OneDrive\Masaüstü\Github\Pinterest Üzerine\Yazılımlarım\Reklam Kodu Değiştirici\AdInserter\AdInserter\bin\Debug\WebDriver.xml
+C:\Users\monst\OneDrive\Masaüstü\Github\Pinterest Üzerine\Yazılımlarım\Reklam Kodu Değiştirici\AdInserter\AdInserter\bin\Debug\WebDriver.Support.xml
+C:\Users\monst\OneDrive\Masaüstü\Github\Pinterest Üzerine\Yazılımlarım\Reklam Kodu Değiştirici\AdInserter\AdInserter\obj\Debug\AdInserter.csprojAssemblyReference.cache
+C:\Users\monst\OneDrive\Masaüstü\Github\Pinterest Üzerine\Yazılımlarım\Reklam Kodu Değiştirici\AdInserter\AdInserter\obj\Debug\AdInserter.Form1.resources
+C:\Users\monst\OneDrive\Masaüstü\Github\Pinterest Üzerine\Yazılımlarım\Reklam Kodu Değiştirici\AdInserter\AdInserter\obj\Debug\AdInserter.Properties.Resources.resources
+C:\Users\monst\OneDrive\Masaüstü\Github\Pinterest Üzerine\Yazılımlarım\Reklam Kodu Değiştirici\AdInserter\AdInserter\obj\Debug\AdInserter.csproj.GenerateResource.cache
+C:\Users\monst\OneDrive\Masaüstü\Github\Pinterest Üzerine\Yazılımlarım\Reklam Kodu Değiştirici\AdInserter\AdInserter\obj\Debug\AdInserter.csproj.CoreCompileInputs.cache
+C:\Users\monst\OneDrive\Masaüstü\Github\Pinterest Üzerine\Yazılımlarım\Reklam Kodu Değiştirici\AdInserter\AdInserter\obj\Debug\AdInserter.csproj.CopyComplete
+C:\Users\monst\OneDrive\Masaüstü\Github\Pinterest Üzerine\Yazılımlarım\Reklam Kodu Değiştirici\AdInserter\AdInserter\obj\Debug\AdInserter.exe
+C:\Users\monst\OneDrive\Masaüstü\Github\Pinterest Üzerine\Yazılımlarım\Reklam Kodu Değiştirici\AdInserter\AdInserter\obj\Debug\AdInserter.pdb
